@@ -244,5 +244,6 @@ p{
 }
 
 .name{
+    font-style: italic;
     margin-left: 150px;
 }
